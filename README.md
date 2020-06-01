@@ -14,5 +14,5 @@ This project is made using JAVA and Maven.
         ° -r run            -- a label identifying the experiment, here, we use only run_0
         ° -o sample.res     -- an output file
 
-        The execution of the program should look like : 
-        ./run.sh -q ../A1/topics-test_en.xml -d ../A1/documents_en.lst -df ../A1/documents_en -r run_0 -o ../test.res
+The execution of the program should look like : 
+./run.sh -q ../A1/topics-test_en.xml -d ../A1/documents_en.lst -df ../A1/documents_en -r run_0 -o ../test.res
